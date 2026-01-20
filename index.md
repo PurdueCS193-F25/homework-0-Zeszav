@@ -1,4 +1,4 @@
-`Title of the website.
+```Title of the website.```
 
 # Alex's First CS193 Homework
 
@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-`Header and bullet list of things I like about CS193.
+```Header and bullet list of things I like about CS193.```
 
 ## Things I Like About CS193
 
